@@ -1,0 +1,34 @@
+{
+  "collections": [
+    {
+      "id": 1,
+      "name": "Hangul",
+      "numberOfCards": 24,
+      "categories": ["korean", "beginner"]
+    },
+    {
+      "id": 2,
+      "name": "Unit 1 - Vocabulary",
+      "numberOfCards": 64,
+      "categories": ["korean", "beginner", "vocabulary"]
+    },
+    {
+      "id": 3,
+      "name": "Unit 1 - Grammar",
+      "numberOfCards": 33,
+      "categories": ["korean", "beginner", "grammar"]
+    },
+    {
+      "id": 4,
+      "name": "Unit 2 - Vocabulary",
+      "numberOfCards": 100,
+      "categories": ["korean", "beginner", "vocabulary"]
+    },
+    {
+      "id": 5,
+      "name": "Unit 2 - Grammar",
+      "numberOfCards": 22,
+      "categories": ["korean", "beginner", "grammar"]
+    }
+  ]
+}
